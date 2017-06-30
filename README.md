@@ -1,5 +1,5 @@
 # trump_quotes
-Shows quotes from the controversial US President Donald Trump.
+Shows quotes of the controversial US President Donald Trump.
 
 ## Shows as
 * Accordion Layout
