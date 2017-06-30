@@ -1,0 +1,8 @@
+{
+   "id" : "trump_quotes",
+   "version" : "1.0",
+   "description" : "Trump Quotes",
+   "categories" : ["trump", "donald", "quotes", "president", "politics"],
+   "compatible_from" : "2017.3.10",
+   "dependencies" : []
+}
